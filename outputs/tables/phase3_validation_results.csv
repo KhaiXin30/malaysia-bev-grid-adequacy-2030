@@ -1,0 +1,23 @@
+requirement,check,result,detail
+1,"Exactly 8,760 hourly records per aggregated profile and per location profile",PASS,"42 aggregated profiles, 72 location profiles"
+2,"Local timestamps: 2030-01-01 00:00 to 2030-12-31 23:00, +08:00 throughout, 1-h steps, no duplicates or gaps",PASS,offsets [np.float64(8.0)]; hour-beginning convention
+2,Exported timestamp strings carry the +08:00 offset and are unique per profile,PASS,2030-01-01T00:00:00+08:00
+3,"is_weekend = Saturday/Sunday; 2030 has 104 weekend days (2,496 h) and starts on a Tuesday",PASS,
+4,TNB peak = Mon-Fri 14:00-22:00 (hour-beginning 14..21) except dated public holidays; everything else off-peak,PASS,2056 peak hours = 257 weekdays x 8 (4 dated holidays fall on weekdays)
+5,All hourly energy and load values >= 0,PASS,min 0.0
+6,"Sum of hourly MWh (base mileage) = Phase 2 annual grid energy x 1,000 for every profile",PASS,"max relative error 3.12e-11; 20% xEV 1,284,977.4 MWh, 30% xEV 1,566,065.6 MWh"
+7,Managed and unmanaged profiles have identical annual energy (same adoption and mileage case),PASS,42 profiles
+8,"Residential + workplace + public AC + public DC = total, every hour",PASS,max |diff| 2.00e-06 MWh (6-dp rounding)
+9,"Location energy shares sum to 100% in every mix case, and realised annual shares equal the base mix",PASS,"{'min': {'public_ac': 0.15, 'public_dc': 0.2, 'residential': 0.6, 'workplace': 0.05}, 'max': {'public_ac': 0.15, 'public_dc': 0.2, 'residential': 0.6, 'workplace': 0.05}}"
+10,"Session schedules: no energy outside the connection window, never above charger power, never negative",PASS,"{'residential:weekday/staggered': 'unshiftable 0.59%', 'residential:weekday/synchronized': 'unshiftable 0.59%', 'residential:weekend_holiday/staggered': 'unshiftable 0.00%', 'residential:weekend_holiday/synchronized': 'unshiftable 0.00%'}"
+11,Every 48-h shape sums to 1 and every session delivers the same energy under each strategy,PASS,
+11,"Mean delivered energy per session identical for unmanaged, staggered and synchronized",PASS,
+12,Participation 0% reproduces the unmanaged profile exactly,PASS,
+13,Participation p applied as a share of residential sessions: p50 = average of p0 and p100; non-residential locations unchanged,PASS,ToU applies to household (residential) charging only
+14,Staggered scheduling avoids the synchronized 22:00 spike (lower maximum load and lower maximum ramp than synchronized starts),PASS,20% xEV p100: staggered max 356.2 MW vs synchronized 974.0 MW; unmanaged 375.5 MW
+15,"15,000 km case = base energy x 15,000/17,969.23 exactly, with identical hourly weights",PASS,ratio 0.834760
+16,All three adoption scenarios keep their Phase 2 annual totals (base mileage),PASS,"{'20pct_xev': np.float64(1284.977), '30pct_xev': np.float64(1566.066), 'historical_trend': np.float64(1440.143)}"
+17,Hourly energy uses the Phase 2 grid-side total (= battery energy / 0.90 once); no further efficiency factor in Phase 3,PASS,grid/battery = 1.1111 (1/0.90 = 1.1111)
+18,Run 1 archived outputs reproduced byte-identical (raw data unchanged),PASS,differing: none
+18,Run 2 archived outputs reproduced byte-identical (raw data unchanged),PASS,differing: none
+18,Run 3 archived outputs reproduced byte-identical (raw data unchanged),PASS,differing: none

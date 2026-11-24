@@ -1,0 +1,298 @@
+{
+ "20pct_xev|base_17969km|unmanaged": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 375.483,
+  "max_load_timestamp": "2030-12-31 18:00:00+08:00",
+  "share_tnb_peak": 0.4078,
+  "energy_shifted_out_of_peak_gwh": 0.0
+ },
+ "20pct_xev|base_17969km|managed_staggered_p25": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 356.239,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.335,
+  "energy_shifted_out_of_peak_gwh": 93.5827
+ },
+ "20pct_xev|base_17969km|managed_staggered_p50": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 356.239,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.2622,
+  "energy_shifted_out_of_peak_gwh": 187.1655
+ },
+ "20pct_xev|base_17969km|managed_staggered_p75": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 356.239,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1893,
+  "energy_shifted_out_of_peak_gwh": 280.7482
+ },
+ "20pct_xev|base_17969km|managed_staggered_p100": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 356.239,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 374.3309
+ },
+ "20pct_xev|base_17969km|managed_synchronized_p50": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 557.394,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.2622,
+  "energy_shifted_out_of_peak_gwh": 187.1655
+ },
+ "20pct_xev|base_17969km|managed_synchronized_p100": {
+  "annual_gwh": 1284.9774,
+  "max_load_mw": 973.9514,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 374.3309
+ },
+ "20pct_xev|giz_15000km|unmanaged": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 313.4383,
+  "max_load_timestamp": "2030-12-31 18:00:00+08:00",
+  "share_tnb_peak": 0.4078,
+  "energy_shifted_out_of_peak_gwh": 0.0
+ },
+ "20pct_xev|giz_15000km|managed_staggered_p25": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 297.3742,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.335,
+  "energy_shifted_out_of_peak_gwh": 78.1191
+ },
+ "20pct_xev|giz_15000km|managed_staggered_p50": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 297.3742,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.2622,
+  "energy_shifted_out_of_peak_gwh": 156.2383
+ },
+ "20pct_xev|giz_15000km|managed_staggered_p75": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 297.3742,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1893,
+  "energy_shifted_out_of_peak_gwh": 234.3574
+ },
+ "20pct_xev|giz_15000km|managed_staggered_p100": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 297.3742,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 312.4766
+ },
+ "20pct_xev|giz_15000km|managed_synchronized_p50": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 465.2904,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.2622,
+  "energy_shifted_out_of_peak_gwh": 156.2383
+ },
+ "20pct_xev|giz_15000km|managed_synchronized_p100": {
+  "annual_gwh": 1072.6482,
+  "max_load_mw": 813.016,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 312.4766
+ },
+ "30pct_xev|base_17969km|unmanaged": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 468.8592,
+  "max_load_timestamp": "2030-12-31 18:00:00+08:00",
+  "share_tnb_peak": 0.4078,
+  "energy_shifted_out_of_peak_gwh": 0.0
+ },
+ "30pct_xev|base_17969km|managed_staggered_p25": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 444.708,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.335,
+  "energy_shifted_out_of_peak_gwh": 114.0461
+ },
+ "30pct_xev|base_17969km|managed_staggered_p50": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 444.708,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 228.0922
+ },
+ "30pct_xev|base_17969km|managed_staggered_p75": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 444.708,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1893,
+  "energy_shifted_out_of_peak_gwh": 342.1383
+ },
+ "30pct_xev|base_17969km|managed_staggered_p100": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 444.708,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 456.1844
+ },
+ "30pct_xev|base_17969km|managed_synchronized_p50": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 696.0083,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 228.0922
+ },
+ "30pct_xev|base_17969km|managed_synchronized_p100": {
+  "annual_gwh": 1566.0656,
+  "max_load_mw": 1216.1564,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 456.1844
+ },
+ "30pct_xev|giz_15000km|unmanaged": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 391.385,
+  "max_load_timestamp": "2030-12-31 18:00:00+08:00",
+  "share_tnb_peak": 0.4078,
+  "energy_shifted_out_of_peak_gwh": 0.0
+ },
+ "30pct_xev|giz_15000km|managed_staggered_p25": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 371.2246,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.335,
+  "energy_shifted_out_of_peak_gwh": 95.2012
+ },
+ "30pct_xev|giz_15000km|managed_staggered_p50": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 371.2246,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 190.4023
+ },
+ "30pct_xev|giz_15000km|managed_staggered_p75": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 371.2246,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1893,
+  "energy_shifted_out_of_peak_gwh": 285.6035
+ },
+ "30pct_xev|giz_15000km|managed_staggered_p100": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 371.2246,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 380.8047
+ },
+ "30pct_xev|giz_15000km|managed_synchronized_p50": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 581.0001,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 190.4023
+ },
+ "30pct_xev|giz_15000km|managed_synchronized_p100": {
+  "annual_gwh": 1307.2894,
+  "max_load_mw": 1015.1991,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 380.8047
+ },
+ "historical_trend|base_17969km|unmanaged": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 429.0265,
+  "max_load_timestamp": "2030-12-31 18:00:00+08:00",
+  "share_tnb_peak": 0.4078,
+  "energy_shifted_out_of_peak_gwh": 0.0
+ },
+ "historical_trend|base_17969km|managed_staggered_p25": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 406.9496,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.335,
+  "energy_shifted_out_of_peak_gwh": 104.8775
+ },
+ "historical_trend|base_17969km|managed_staggered_p50": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 406.9496,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 209.7549
+ },
+ "historical_trend|base_17969km|managed_staggered_p75": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 406.9496,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1893,
+  "energy_shifted_out_of_peak_gwh": 314.6324
+ },
+ "historical_trend|base_17969km|managed_staggered_p100": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 406.9496,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 419.5099
+ },
+ "historical_trend|base_17969km|managed_synchronized_p50": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 636.8778,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 209.7549
+ },
+ "historical_trend|base_17969km|managed_synchronized_p100": {
+  "annual_gwh": 1440.1427,
+  "max_load_mw": 1112.8359,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 419.5099
+ },
+ "historical_trend|giz_15000km|unmanaged": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 358.1343,
+  "max_load_timestamp": "2030-12-31 18:00:00+08:00",
+  "share_tnb_peak": 0.4078,
+  "energy_shifted_out_of_peak_gwh": 0.0
+ },
+ "historical_trend|giz_15000km|managed_staggered_p25": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 339.7054,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.335,
+  "energy_shifted_out_of_peak_gwh": 87.5475
+ },
+ "historical_trend|giz_15000km|managed_staggered_p50": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 339.7054,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 175.0951
+ },
+ "historical_trend|giz_15000km|managed_staggered_p75": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 339.7054,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1893,
+  "energy_shifted_out_of_peak_gwh": 262.6426
+ },
+ "historical_trend|giz_15000km|managed_staggered_p100": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 339.7054,
+  "max_load_timestamp": "2030-12-29 18:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 350.1902
+ },
+ "historical_trend|giz_15000km|managed_synchronized_p50": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 531.6403,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.2621,
+  "energy_shifted_out_of_peak_gwh": 175.0951
+ },
+ "historical_trend|giz_15000km|managed_synchronized_p100": {
+  "annual_gwh": 1202.174,
+  "max_load_mw": 928.9512,
+  "max_load_timestamp": "2030-12-31 22:00:00+08:00",
+  "share_tnb_peak": 0.1165,
+  "energy_shifted_out_of_peak_gwh": 350.1902
+ },
+ "validation_checks": 22,
+ "validation_failures": 0
+}

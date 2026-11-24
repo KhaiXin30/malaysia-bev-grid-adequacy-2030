@@ -1,0 +1,15 @@
+scenario,varied,setting,stock_2030,delta_vs_base
+policy_20pct,none (base),base,514932.0,0.0
+policy_20pct,market growth,low,491910.0,-23023.0
+policy_20pct,BEV share within xEV,low,467211.0,-47721.0
+policy_20pct,survival,low,500122.0,-14811.0
+policy_20pct,market growth,high,529331.0,14399.0
+policy_20pct,BEV share within xEV,high,573275.0,58342.0
+policy_20pct,survival,high,519957.0,5024.0
+policy_30pct,none (base),base,643076.0,0.0
+policy_30pct,market growth,low,610767.0,-32309.0
+policy_30pct,BEV share within xEV,low,576050.0,-67026.0
+policy_30pct,survival,low,627153.0,-15923.0
+policy_30pct,market growth,high,663308.0,20232.0
+policy_30pct,BEV share within xEV,high,725015.0,81939.0
+policy_30pct,survival,high,648360.0,5284.0

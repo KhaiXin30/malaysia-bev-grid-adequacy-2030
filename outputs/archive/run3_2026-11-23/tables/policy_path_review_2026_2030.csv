@@ -1,0 +1,42 @@
+scenario,case,year,total_cars,xev_share,bev_share_of_xev,bev_share_of_cars,bev_registrations,hybrid_registrations,bev_yoy,hybrid_yoy,xev_share_if_hybrid_share_held_at_2026,note
+historical_trend,base,2027,895551.0,,,0.092436,82781.0,,0.151159,,0.155518,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,base,2028,904506.0,,,0.111367,100732.0,,0.216849,,0.174449,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,base,2029,913551.0,,,0.130298,119034.0,,0.18169,,0.19338,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,base,2030,922687.0,,,0.149229,137692.0,,0.156745,,0.212312,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,high,2027,895551.0,,,0.144931,129793.0,,0.804912,,0.208013,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,high,2028,904506.0,,,0.201453,182215.0,,0.403889,,0.264535,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,high,2029,913551.0,,,0.245166,223972.0,,0.229163,,0.308249,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,high,2030,922687.0,,,0.272169,251127.0,,0.121243,,0.335251,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,low,2027,895551.0,,,0.091241,81711.0,,0.13628,,0.154323,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,low,2028,904506.0,,,0.109031,98619.0,,0.206924,,0.172113,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,low,2029,913551.0,,,0.126459,115527.0,,0.171448,,0.189542,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+historical_trend,low,2030,922687.0,,,0.143531,132434.0,,0.146347,,0.206613,trend model projects BEVs only; xEV share shown assumes hybrid share of cars held at 2026 level
+observed,-,2022,744762.0,0.024848,0.16908,0.004201,3129.0,15377.0,,,,
+observed,-,2023,832347.0,0.04267,0.374507,0.01598,13301.0,22215.0,3.250879,0.44469,,
+observed,-,2024,856292.0,0.054088,0.470452,0.025446,21789.0,24526.0,0.638148,0.104029,,
+observed,-,2025,870327.0,0.087327,0.589621,0.05149,44813.0,31190.0,1.05668,0.271712,,
+observed+estimated,-,2026,886684.0,0.144183,0.562486,0.081101,71911.0,55934.0,,,,
+policy_20pct,base,2027,895551.0,0.158137,0.562486,0.08895,79659.0,61961.0,0.107744,0.107752,,
+policy_20pct,base,2028,904506.0,0.172092,0.562486,0.096799,87555.0,68103.0,0.099123,0.099127,,
+policy_20pct,base,2029,913551.0,0.186046,0.562486,0.104648,95601.0,74361.0,0.091897,0.09189,,
+policy_20pct,base,2030,922687.0,0.2,0.562486,0.112497,103800.0,80738.0,0.085763,0.085757,,
+policy_20pct,high,2027,908851.0,0.158137,0.596864,0.094387,85783.0,57940.0,0.192905,0.035864,,
+policy_20pct,high,2028,931572.0,0.172092,0.631243,0.108632,101198.0,59118.0,0.179698,0.020331,,
+policy_20pct,high,2029,954862.0,0.186046,0.665621,0.123836,118246.0,59402.0,0.168462,0.004804,,
+policy_20pct,high,2030,978733.0,0.2,0.7,0.14,137023.0,58724.0,0.158796,-0.011414,,
+policy_20pct,low,2027,873384.0,0.158137,0.534364,0.084503,73804.0,64311.0,0.026324,0.149766,,
+policy_20pct,low,2028,860283.0,0.172092,0.506243,0.08712,74948.0,73100.0,0.015501,0.136664,,
+policy_20pct,low,2029,847379.0,0.186046,0.478121,0.088952,75376.0,82275.0,0.005711,0.125513,,
+policy_20pct,low,2030,834668.0,0.2,0.45,0.09,75120.0,91813.0,-0.003396,0.115928,,
+policy_30pct,base,2027,895551.0,0.183137,0.562486,0.103012,92253.0,71756.0,0.282877,0.282869,,
+policy_30pct,base,2028,904506.0,0.222092,0.562486,0.124923,112994.0,87889.0,0.224827,0.224831,,
+policy_30pct,base,2029,913551.0,0.261046,0.562486,0.146835,134141.0,104338.0,0.187152,0.187157,,
+policy_30pct,base,2030,922687.0,0.3,0.562486,0.168746,155700.0,121107.0,0.160719,0.160718,,
+policy_30pct,high,2027,908851.0,0.183137,0.596864,0.109308,99345.0,67100.0,0.381499,0.199628,,
+policy_30pct,high,2028,931572.0,0.222092,0.631243,0.140194,130601.0,76294.0,0.314621,0.137019,,
+policy_30pct,high,2029,954862.0,0.261046,0.665621,0.173758,165915.0,83348.0,0.270396,0.092458,,
+policy_30pct,high,2030,978733.0,0.3,0.7,0.21,205534.0,88086.0,0.238791,0.056846,,
+policy_30pct,low,2027,873384.0,0.183137,0.534364,0.097862,85471.0,74478.0,0.188566,0.331534,,
+policy_30pct,low,2028,860283.0,0.222092,0.506243,0.112432,96724.0,94338.0,0.131659,0.266656,,
+policy_30pct,low,2029,847379.0,0.261046,0.478121,0.124812,105763.0,115442.0,0.093451,0.223706,,
+policy_30pct,low,2030,834668.0,0.3,0.45,0.135,112680.0,137720.0,0.065401,0.19298,,

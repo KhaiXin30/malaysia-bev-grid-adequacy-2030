@@ -221,3 +221,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
+
+# ---- Project-specific ----
+# Large hourly outputs (>40 MB each). Regenerate with: .venv/bin/python src/run_all.py
+# SHA-256 of the reference versions: outputs/archive/run4_2026-11-23/SHA256SUMS.txt
+outputs/tables/leap_bev_hourly_load_2030.csv
+outputs/tables/leap_bev_hourly_load_2030_aggregated.csv
+outputs/tables/leap_bev_hourly_load_2030_industry_sensitivity.csv
+outputs/tables/public_ac_industry_informed_hourly.csv
+
+# Third-party publications (copyright of their publishers; cited in reports, kept locally only)
+data/raw/literature/*.pdf
+data/raw/literature/*.txt
+data/raw/maa_docs/*.pdf
+data/raw/policy_docs/*.pdf
+
+# Editor / OS
+.idea/
+.vscode/

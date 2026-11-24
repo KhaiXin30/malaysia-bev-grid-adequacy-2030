@@ -1,0 +1,8 @@
+id,model,observed_kwh_per_100km,measurement_basis,conditions,source_id,evdb_reference,evdb_kwh_per_100km_battery,ratio_observed_to_evdb,used_for_low_factor
+O1,Proton e.MAS 7 Premium,11.2,battery (car display),"152 km mixed, ~30% congestion, Malaysia",E09,Geely E5 (e.MAS 7 twin),18.5667,0.6032,True
+O2,Proton e.MAS 7 Premium,11.3,unclear (derived from % battery),"152 km 'efficiency challenge' (eco-driving), Malaysia",E10,Geely E5 (e.MAS 7 twin),18.5667,0.6086,False
+O3,Proton e.MAS 7,14.35,unclear (method not stated),"range 13.5-15.2 (midpoint), Singapore road test",E11,Geely E5 (e.MAS 7 twin),18.5667,0.7729,True
+O4,Proton e.MAS 5 Premium,10.0,battery (trip computer),Klang Valley and towards Genting Highlands; distance not stated (Zigwheels via Carz/Newswav),E15,Geely E2 (e.MAS 5 proxy),16.6,0.6024,True
+O5,smart #1 Premium,13.2,unclear (method not stated),"almost 500 km mixed, Malaysia",E13,Smart #1 Premium,18.5,0.7135,True
+O6,BYD Dolphin Premium Extended Range,13.8,battery (car consumption graph),"outbound leg Desa ParkCity-Putrajaya, Malaysia",E14,BYD DOLPHIN 60.4 kWh,17.3,0.7977,True
+O7,BYD Dolphin Dynamic Standard Range,16.1,unclear (computed here: 24% of 44.92 kWh / 66.8 km),"return leg, 'quite a bit of pedal pushing', Malaysia",E14,BYD DOLPHIN 60.4 kWh,17.3,0.9306,False

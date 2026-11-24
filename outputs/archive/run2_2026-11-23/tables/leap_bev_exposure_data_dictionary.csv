@@ -1,0 +1,11 @@
+column,type,unit,definition
+year,integer,calendar year,Calendar year 2025-2030 (2025 observed registrations; 2026 = Jan-Oct observed + Nov-Dec estimated; 2027-2030 projected).
+scenario,text,-,"20pct_xev = NETR 20% xEV target (PRIMARY); 30pct_xev = 30% xEV (SENSITIVITY, MITI 4 Feb 2026 statement); historical_trend = independent trend (COMPARISON)."
+case,text,-,"low / base / high combined assumption envelope (market growth, BEV share within xEV, survival, Peninsular share move together). Not a statistical confidence interval."
+geography,text,-,national = Malaysia; peninsular = Peninsular Malaysia ESTIMATE (JPJ state-of-registration proxy x cohort share; not an observed operating fleet).
+new_registrations,number,vehicles per year,"New passenger BEV registrations (JPJ basis) in the calendar year. National: observed (2025), observed+estimated (2026), projected (2027+). Peninsular: ESTIMATED = national registrations x Peninsular share of that cohort year."
+stock_beginning,number,vehicles,Active BEVs at 00:00 on 1 January (= stock_end of the previous year).
+stock_end,number,vehicles,Active BEVs at 24:00 on 31 December (daily cohort x Weibull survival). Differs slightly from the Run 1 31-Dec stock because registration timing is monthly/daily rather than mid-year; see exposure_vs_run1_reconciliation.csv.
+stock_annual_average,number,vehicles,Time-average number of active BEVs over the calendar year = (1/T_y) x integral of N(t) dt. USE THIS (not stock_end) for annual energy demand.
+vehicle_years,number,vehicle-years,"Integral of N(t) over the calendar year; 1 vehicle-year = one vehicle active for a full calendar year, so numerically equal to stock_annual_average."
+retirements,number,vehicles per year,"Vehicles leaving the active fleet during the year (scrappage/deregistration/export), from survival; = stock_beginning + new_registrations - stock_end. In the LEAP file each column is rounded to whole vehicles independently, so this identity can differ by +/-1 there (exact in annual_bev_fleet_exposure_2025_2030.csv)."

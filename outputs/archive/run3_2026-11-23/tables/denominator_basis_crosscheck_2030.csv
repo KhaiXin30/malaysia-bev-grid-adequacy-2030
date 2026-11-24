@@ -1,0 +1,5 @@
+scenario,basis,year,total_market,xev_share,bev_share_of_xev,bev_2030,note
+policy_20pct,"MAA TIV (sales, PV+CV)",2030,832483,0.2,0.5,83248,MAA 2025 BEV/xEV = 0.445; MAA Jul-2026 forecast ~0.50
+policy_20pct,MAA TIV basis x JPJ/MAA 2025 BEV ratio,2030,832483,0.2,0.5,120935,"JPJ/MAA BEV ratio 2025 = 1.453 (non-MAA brands, timing, imports)"
+policy_30pct,"MAA TIV (sales, PV+CV)",2030,832483,0.3,0.5,124872,MAA 2025 BEV/xEV = 0.445; MAA Jul-2026 forecast ~0.50
+policy_30pct,MAA TIV basis x JPJ/MAA 2025 BEV ratio,2030,832483,0.3,0.5,181403,"JPJ/MAA BEV ratio 2025 = 1.453 (non-MAA brands, timing, imports)"

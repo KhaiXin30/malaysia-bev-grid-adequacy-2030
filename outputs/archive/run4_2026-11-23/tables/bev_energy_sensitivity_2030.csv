@@ -1,0 +1,37 @@
+geography,factor,setting,level,vehicle_years_2030,annual_km,kwh_per_100km,charging_efficiency,grid_energy_gwh_2030,delta_gwh,pct_vs_baseline,scenario,base_gwh,envelope_high_gwh,envelope_low_gwh
+peninsular,"baseline (20% xEV, all base)",-,base,425537.0,17969.23,15.1242,0.9,1284.9774,0.0,0.0,,,,
+peninsular,"A. Annual average fleet size (Phase 1.5 low/high, 20%)",low fleet,low,350976.0,17969.23,15.1209,0.9,1059.597,-225.3804,-0.1754,,,,
+peninsular,"A. Annual average fleet size (Phase 1.5 low/high, 20%)",high fleet,high,498409.0,17969.23,15.1278,0.9,1505.3889,220.4115,0.1715,,,,
+peninsular,B1. Adoption scenario: 30% xEV,30% xEV,high,518623.0,17969.23,15.1242,0.9,1566.0656,281.0882,0.2187,,,,
+peninsular,B2. Adoption scenario: historical trend,historical trend,high,476922.0,17969.23,15.1242,0.9,1440.1427,155.1653,0.1208,,,,
+peninsular,C. Annual driving distance,"13,561 km",low,425537.0,13561.04,15.1242,0.9,969.7483,-315.2291,-0.2453,,,,
+peninsular,C. Annual driving distance,"22,715 km",high,425537.0,22715.0,15.1242,0.9,1624.3469,339.3694,0.2641,,,,
+peninsular,C2. BEV mileage = US all-BEV/CV ratio (Zhao 2023),"11,059 km (x0.615)",low,425537.0,11059.0563,15.1242,0.9,790.8318,-494.1457,-0.3846,,,,
+peninsular,C3. Malaysian fleet-typical mileage (GIZ 2016),"15,000 km",low,425537.0,15000.0,15.1242,0.9,1072.6482,-212.3293,-0.1652,,,,
+peninsular,D. Consumption level (battery-side),x0.714 of EVDB fleet value,low,425537.0,17969.23,12.5955,0.9,1070.1389,-214.8385,-0.1672,,,,
+peninsular,D. Consumption level (battery-side),x1.000 of EVDB fleet value,high,425537.0,17969.23,17.6528,0.9,1499.8159,214.8385,0.1672,,,,
+peninsular,E. Charging efficiency,93%,low,425537.0,17969.23,15.1242,0.93,1243.5266,-41.4509,-0.0323,,,,
+peninsular,E. Charging efficiency,85%,high,425537.0,17969.23,15.1242,0.85,1360.5644,75.5869,0.0588,,,,
+peninsular,F. Vehicle mix of 2027-2030 cohorts,small mix (2026-2026 registrations),low,425537.0,17969.23,14.9597,0.9,1271.0024,-13.9751,-0.0109,,,,
+peninsular,F. Vehicle mix of 2027-2030 cohorts,large mix (2025-2025 registrations),high,425537.0,17969.23,15.3375,0.9,1303.1051,18.1277,0.0141,,,,
+national,"baseline (20% xEV, all base)",-,base,462535.0,17969.23,15.1242,0.9,1396.6989,0.0,0.0,,,,
+national,"A. Annual average fleet size (Phase 1.5 low/high, 20%)",low fleet,low,398836.0,17969.23,15.1209,0.9,1204.0865,-192.6124,-0.1379,,,,
+national,"A. Annual average fleet size (Phase 1.5 low/high, 20%)",high fleet,high,524641.0,17969.23,15.1278,0.9,1584.6198,187.9209,0.1345,,,,
+national,B1. Adoption scenario: 30% xEV,30% xEV,high,563716.0,17969.23,15.1242,0.9,1702.2312,305.5323,0.2188,,,,
+national,B2. Adoption scenario: historical trend,historical trend,high,518388.0,17969.23,15.1242,0.9,1565.356,168.6571,0.1208,,,,
+national,C. Annual driving distance,"13,561 km",low,462535.0,13561.04,15.1242,0.9,1054.0624,-342.6365,-0.2453,,,,
+national,C. Annual driving distance,"22,715 km",high,462535.0,22715.0,15.1242,0.9,1765.5745,368.8757,0.2641,,,,
+national,C2. BEV mileage = US all-BEV/CV ratio (Zhao 2023),"11,059 km (x0.615)",low,462535.0,11059.0563,15.1242,0.9,859.59,-537.1088,-0.3846,,,,
+national,C3. Malaysian fleet-typical mileage (GIZ 2016),"15,000 km",low,462535.0,15000.0,15.1242,0.9,1165.9088,-230.7901,-0.1652,,,,
+national,D. Consumption level (battery-side),x0.714 of EVDB fleet value,low,462535.0,17969.23,12.5955,0.9,1163.1814,-233.5175,-0.1672,,,,
+national,D. Consumption level (battery-side),x1.000 of EVDB fleet value,high,462535.0,17969.23,17.6528,0.9,1630.2163,233.5175,0.1672,,,,
+national,E. Charging efficiency,93%,low,462535.0,17969.23,15.1242,0.93,1351.6441,-45.0548,-0.0323,,,,
+national,E. Charging efficiency,85%,high,462535.0,17969.23,15.1242,0.85,1478.8576,82.1588,0.0588,,,,
+national,F. Vehicle mix of 2027-2030 cohorts,small mix (2026-2026 registrations),low,462535.0,17969.23,14.9597,0.9,1381.5087,-15.1901,-0.0109,,,,
+national,F. Vehicle mix of 2027-2030 cohorts,large mix (2025-2025 registrations),high,462535.0,17969.23,15.3375,0.9,1416.4027,19.7038,0.0141,,,,
+national,Combined envelope (all-low / all-high; not a CI),,,,,,,,,,20pct_xev,1396.6989,2512.1732,724.7544
+peninsular,Combined envelope (all-low / all-high; not a CI),,,,,,,,,,20pct_xev,1284.9774,2386.5648,637.7845
+national,Combined envelope (all-low / all-high; not a CI),,,,,,,,,,30pct_xev,1702.2312,3102.7655,871.9037
+peninsular,Combined envelope (all-low / all-high; not a CI),,,,,,,,,,30pct_xev,1566.0656,2947.6272,767.2763
+national,Combined envelope (all-low / all-high; not a CI),,,,,,,,,,historical_trend,1565.356,3877.638,903.5026
+peninsular,Combined envelope (all-low / all-high; not a CI),,,,,,,,,,historical_trend,1440.1427,3683.7571,795.0827

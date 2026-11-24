@@ -1,0 +1,114 @@
+{
+  "stock_2030": {
+    "20pct_xev": {
+      "national": {
+        "low": {
+          "end": 433841,
+          "average": 398836,
+          "run1_end": 433464
+        },
+        "base": {
+          "end": 515091,
+          "average": 462535,
+          "run1_end": 514932
+        },
+        "high": {
+          "end": 595614,
+          "average": 524641,
+          "run1_end": 595555
+        }
+      },
+      "peninsular": {
+        "low": {
+          "end": 381780,
+          "average": 350976,
+          "run1_end": 381448
+        },
+        "base": {
+          "end": 473886,
+          "average": 425537,
+          "run1_end": 473740
+        },
+        "high": {
+          "end": 565833,
+          "average": 498409,
+          "run1_end": 565778
+        }
+      }
+    },
+    "30pct_xev": {
+      "national": {
+        "low": {
+          "end": 533982,
+          "average": 479813,
+          "run1_end": 533609
+        },
+        "base": {
+          "end": 643231,
+          "average": 563716,
+          "run1_end": 643076
+        },
+        "high": {
+          "end": 754679,
+          "average": 647980,
+          "run1_end": 754622
+        }
+      },
+      "peninsular": {
+        "low": {
+          "end": 469904,
+          "average": 422236,
+          "run1_end": 469576
+        },
+        "base": {
+          "end": 591775,
+          "average": 518623,
+          "run1_end": 591632
+        },
+        "high": {
+          "end": 716945,
+          "average": 615581,
+          "run1_end": 716891
+        }
+      }
+    },
+    "historical_trend": {
+      "national": {
+        "low": {
+          "end": 561653,
+          "average": 497202,
+          "run1_end": 561286
+        },
+        "base": {
+          "end": 588576,
+          "average": 518388,
+          "run1_end": 588420
+        },
+        "high": {
+          "end": 940238,
+          "average": 809804,
+          "run1_end": 940183
+        }
+      },
+      "peninsular": {
+        "low": {
+          "end": 494254,
+          "average": 437538,
+          "run1_end": 493931
+        },
+        "base": {
+          "end": 541492,
+          "average": 476922,
+          "run1_end": 541348
+        },
+        "high": {
+          "end": 893226,
+          "average": 769314,
+          "run1_end": 893174
+        }
+      }
+    }
+  },
+  "validation_checks": 33,
+  "validation_failures": 0
+}

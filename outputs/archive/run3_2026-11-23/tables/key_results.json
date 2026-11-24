@@ -1,0 +1,67 @@
+{
+  "data_last_month": "2026-10",
+  "bev_2025": 44813,
+  "hybrid_2025": 31190,
+  "cars_2025": 870327,
+  "bev_2026_ytd": 58130,
+  "hybrid_2026_ytd": 45215,
+  "cars_2026_ytd": 716764,
+  "bev_2026_est": 71911,
+  "cars_2026_est": 886684,
+  "bev_ytd_growth_vs_2025_same_months": 0.8587919291401529,
+  "xev_share_2026_ytd": 0.14418327160521674,
+  "bev_share_2026_ytd": 0.08110104614496258,
+  "regs_2030": {
+    "historical_trend": {
+      "low": 132434,
+      "base": 137692,
+      "high": 251127
+    },
+    "policy_20pct": {
+      "low": 75120,
+      "base": 103800,
+      "high": 137023
+    },
+    "policy_30pct": {
+      "low": 112680,
+      "base": 155700,
+      "high": 205534
+    }
+  },
+  "stock_2030_national": {
+    "historical_trend": {
+      "low": 561286,
+      "base": 588420,
+      "high": 940183
+    },
+    "policy_20pct": {
+      "low": 433464,
+      "base": 514932,
+      "high": 595555
+    },
+    "policy_30pct": {
+      "low": 533609,
+      "base": 643076,
+      "high": 754622
+    }
+  },
+  "stock_2030_peninsular": {
+    "historical_trend": {
+      "low": 493931,
+      "base": 541348,
+      "high": 893174
+    },
+    "policy_20pct": {
+      "low": 381448,
+      "base": 473740,
+      "high": 565778
+    },
+    "policy_30pct": {
+      "low": 469576,
+      "base": 591632,
+      "high": 716891
+    }
+  },
+  "stock_2025_national_base": 83427,
+  "validation_failures": 0
+}

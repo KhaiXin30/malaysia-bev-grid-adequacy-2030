@@ -1,0 +1,43 @@
+model,fit_start,fit_end,n_fit_points,holdout_year,actual,predicted,pct_error,holdout_note
+A_linear_counts,2021,2024,4,2025,44813.0,28311.0,-0.3682,observed
+A_linear_counts,2021,2024,4,2026,71911.0,35787.8,-0.5023,2026 actual = Jan-Oct observed + Nov-Dec estimated
+B_exponential_counts,2021,2024,4,2025,44813.0,156751.9254,2.4979,observed
+B_exponential_counts,2021,2024,4,2026,71911.0,686360.0697,8.5446,2026 actual = Jan-Oct observed + Nov-Dec estimated
+D_linear_share,2021,2024,4,2025,44813.0,28889.103,-0.3553,observed
+D_linear_share,2021,2024,4,2026,71911.0,37116.1829,-0.4839,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K30,2021,2024,4,2025,44813.0,92255.0472,1.0587,observed
+C_logistic_share_K30,2021,2024,4,2026,71911.0,180519.3485,1.5103,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K50,2021,2024,4,2025,44813.0,103666.1565,1.3133,observed
+C_logistic_share_K50,2021,2024,4,2026,71911.0,241245.5537,2.3548,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K80,2021,2024,4,2025,44813.0,111392.6667,1.4857,observed
+C_logistic_share_K80,2021,2024,4,2026,71911.0,297439.5108,3.1362,2026 actual = Jan-Oct observed + Nov-Dec estimated
+A_linear_counts,2021,2025,5,2026,71911.0,48989.4,-0.3187,2026 actual = Jan-Oct observed + Nov-Dec estimated
+B_exponential_counts,2021,2025,5,2026,71911.0,252060.572,2.5052,2026 actual = Jan-Oct observed + Nov-Dec estimated
+D_linear_share,2021,2025,5,2026,71911.0,50094.7205,-0.3034,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K30,2021,2025,5,2026,71911.0,131123.2544,0.8234,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K50,2021,2025,5,2026,71911.0,154608.1097,1.15,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K80,2021,2025,5,2026,71911.0,171851.8235,1.3898,2026 actual = Jan-Oct observed + Nov-Dec estimated
+A_linear_counts,2022,2024,3,2025,44813.0,31399.6667,-0.2993,observed
+A_linear_counts,2022,2024,3,2026,71911.0,40729.6667,-0.4336,2026 actual = Jan-Oct observed + Nov-Dec estimated
+B_exponential_counts,2022,2024,3,2025,44813.0,67402.2076,0.5041,observed
+B_exponential_counts,2022,2024,3,2026,71911.0,177864.792,1.4734,2026 actual = Jan-Oct observed + Nov-Dec estimated
+D_linear_share,2022,2024,3,2025,44813.0,31726.4555,-0.292,observed
+D_linear_share,2022,2024,3,2026,71911.0,41741.2676,-0.4195,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K30,2022,2024,3,2025,44813.0,56159.4336,0.2532,observed
+C_logistic_share_K30,2022,2024,3,2026,71911.0,109531.3266,0.5232,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K50,2022,2024,3,2025,44813.0,58743.8153,0.3109,observed
+C_logistic_share_K50,2022,2024,3,2026,71911.0,124978.7499,0.738,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K80,2022,2024,3,2025,44813.0,60286.3953,0.3453,observed
+C_logistic_share_K80,2022,2024,3,2026,71911.0,135657.9392,0.8865,2026 actual = Jan-Oct observed + Nov-Dec estimated
+A_linear_counts,2022,2025,4,2026,71911.0,54143.0,-0.2471,2026 actual = Jan-Oct observed + Nov-Dec estimated
+B_exponential_counts,2022,2025,4,2026,71911.0,118255.1019,0.6445,2026 actual = Jan-Oct observed + Nov-Dec estimated
+D_linear_share,2022,2025,4,2026,71911.0,55073.7617,-0.2341,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K30,2022,2025,4,2026,71911.0,92062.3005,0.2802,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K50,2022,2025,4,2026,71911.0,99341.6886,0.3815,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K80,2022,2025,4,2026,71911.0,103894.6815,0.4448,2026 actual = Jan-Oct observed + Nov-Dec estimated
+A_linear_counts,2023,2025,3,2026,71911.0,58146.3333,-0.1914,2026 actual = Jan-Oct observed + Nov-Dec estimated
+B_exponential_counts,2023,2025,3,2026,71911.0,79194.4832,0.1013,2026 actual = Jan-Oct observed + Nov-Dec estimated
+D_linear_share,2023,2025,3,2026,71911.0,58948.2007,-0.1803,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K30,2023,2025,3,2026,71911.0,72950.1339,0.0145,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K50,2023,2025,3,2026,71911.0,75252.0597,0.0465,2026 actual = Jan-Oct observed + Nov-Dec estimated
+C_logistic_share_K80,2023,2025,3,2026,71911.0,76555.8443,0.0646,2026 actual = Jan-Oct observed + Nov-Dec estimated

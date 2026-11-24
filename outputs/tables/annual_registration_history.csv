@@ -1,0 +1,9 @@
+year,total_cars,bev,hybrid,xev_proxy,period,months_observed,bev_share_of_cars,hybrid_share_of_cars,xev_share_of_cars,bev_share_of_xev,yoy_total_cars,yoy_bev,yoy_hybrid,yoy_xev_proxy,yoy_basis,geography,measure
+2020,552359,71,1928,1999,full_year,12,0.000129,0.00349,0.003619,0.035518,-0.098885,0.613636,-0.676835,-0.667388,vs full-year 2019,Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2021,530057,257,2731,2988,full_year,12,0.000485,0.005152,0.005637,0.086011,-0.040376,2.619718,0.416494,0.494747,vs full-year 2020,Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2022,744762,3129,15377,18506,full_year,12,0.004201,0.020647,0.024848,0.16908,0.40506,11.175097,4.630538,5.19344,vs full-year 2021,Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2023,832347,13301,22215,35516,full_year,12,0.01598,0.02669,0.04267,0.374507,0.117601,3.250879,0.44469,0.919161,vs full-year 2022,Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2024,856292,21789,24526,46315,full_year,12,0.025446,0.028642,0.054088,0.470452,0.028768,0.638148,0.104029,0.30406,vs full-year 2023,Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2025,870327,44813,31190,76003,full_year,12,0.05149,0.035837,0.087327,0.589621,0.01639,1.05668,0.271712,0.641002,vs full-year 2024,Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2026,716764,58130,45215,103345,YTD_Jan-Oct,10,0.081101,0.063082,0.144183,0.562485,0.030602,0.858792,0.827016,0.844755,vs Jan-Oct 2025 (like-for-like),Malaysia (national),"JPJ new registrations (not sales), type 'car'"
+2026,886684,71911,55934,127845,estimated_full_year (Jan-Oct observed + Nov-Dec estimated),10,0.081101,0.063082,0.144183,0.562486,0.018794,0.604691,0.793331,0.682105,estimate vs full-year 2025,Malaysia (national),"JPJ new registrations (not sales), type 'car'"

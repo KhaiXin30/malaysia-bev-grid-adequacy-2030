@@ -1,0 +1,11 @@
+check,value,action
+rows in export,2531,—
+row numbers (BIL.) missing from 1..max,4,"none; numbers 1961, 2202, 2336, 2342"
+exact duplicate rows (all fields except BIL.),18,removed
+licence numbers shared by >1 remaining row (different sites/details),25,kept all 50 rows; flagged
+licence start year written with 2 digits,3,read as 20YY; flagged
+licence start date after export date (likely typo),4,kept in totals; excluded from the by-year table
+rows whose rating text does not reproduce the AC/DC unit columns,170,AC/DC columns used for counts; these rows excluded from the kW-rating distribution
+rows where units_ac + units_dc != units_total,0,none
+rows where parsed kW x units differs from installed kW by >1 kW (parse-consistent rows),23,installed_kw column used
+licensee names: raw vs normalised (punctuation),326 -> 310,normalised name used

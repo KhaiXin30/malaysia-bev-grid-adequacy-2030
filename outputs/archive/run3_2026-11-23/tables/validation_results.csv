@@ -1,0 +1,25 @@
+check,result,detail
+"Annual totals reconcile with monthly totals (all cars, BEV)",PASS,27 years compared
+Report table full years equal raw sums,PASS,2020-2025
+Fuel breakdown rows sum exactly to all_fuels (no double counting),PASS,0 mismatches / 2249 groups
+Type breakdown rows sum exactly to all_types,PASS,0 mismatches
+total_cars taken from all_fuels only; BEV+hybrid <= total every month,PASS,0 violations
+2026 flagged as partial year (YTD) with 10 observed months,PASS,last month 2026-10
+2026 estimate >= 2026 YTD for all series,PASS,
+2026 YTD YoY computed like-for-like (Jan-Oct vs Jan-Oct),PASS,vs Jan-Oct 2025 (like-for-like)
+BEV <= total cars (history),PASS,
+BEV share <= xEV share (history),PASS,
+BEV <= xEV <= total cars (policy grid),PASS,90 rows
+BEV share <= xEV share (policy grid),PASS,
+Trend forecasts bounded by total market (after clipping),PASS,12 raw model predictions exceeded the market and were clipped (model B mainly)
+All forecast registrations nonnegative,PASS,
+All stock values nonnegative,PASS,
+"Retirements consistent: Stock_y = Stock_{y-1} + R_y - Ret_y, Ret_y >= 0",PASS,
+Active stock < cumulative registrations (survival applied),PASS,stock computed by cohort x survival
+30% scenario >= 20% scenario for every identical-assumption combination (registrations),PASS,45 combinations
+30% scenario stock >= 20% scenario stock (each case),PASS,
+Peninsular stock <= national stock,PASS,
+"2025 observed BEV registrations = 44,813 (published figure)",PASS,model value 44813
+Aggregate vs transaction BEV counts agree within 1 per year,PASS,"{2015: 0, 2016: 0, 2017: 0, 2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 1, 2023: 0, 2024: 1, 2025: 0, 2026: 1}"
+JPJ 2025 xEV proxy share within 0.5 pp of MITI-reported 8.7% of cars registered,PASS,0.0873
+Every assumption row has a status and at least one source id,PASS,28 rows

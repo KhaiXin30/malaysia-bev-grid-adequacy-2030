@@ -1,0 +1,11 @@
+item,this_project_value,reference_value,reference_source,interpretation
+"BEV car registrations 2025 (JPJ aggregate, fuel=electric, type=car)",44813.0,44813.0,"cited figure 44,813 (The Star/RHB 'JPJ ... 44,800'; paultan 44,813)","exact match - same definition (JPJ registrations, cars)"
+BEV 2025 - MAA sales basis,44813.0,30848.0,S09 AutoBuzz quoting MAA,"JPJ exceeds MAA by 45%: MAA covers member-company sales; JPJ includes non-MAA brands (e.g. Tesla: 7,282 JPJ BEV registrations in 2025), used/grey imports, and counts by registration date."
+Hybrid 2025 - JPJ 'hybrid' vs MAA HEV,31190.0,38515.0,S09,"JPJ hybrid is 19% BELOW MAA HEV - unresolved; possibly some hybrids (e.g. mild hybrids) coded petrol in JPJ, or MAA classification differences. Flagged for review."
+xEV 2025 - JPJ proxy (BEV+hybrid) vs MAA xEV,76003.0,69363.0,S09,different measures; JPJ +9.6%
+xEV share 2025 - JPJ proxy share of car registrations vs MITI 'of total cars registered',0.0873,0.087,S04,consistent (8.73% vs 8.7%)
+xEV share 2025 - MAA xEV / TIV vs MITI 'of new vehicle sales',0.0845,0.085,S04;S09,consistent (8.45% vs 8.5%)
+Total car registrations 2025 (JPJ) vs MAA TIV 2025,870327.0,820752.0,S05,JPJ 'car' incl. pick-ups/window vans and non-MAA brands; MAA TIV incl. commercial vehicles
+BEV registrations 1H 2026 (JPJ) vs paultan JPJ figure,31738.0,31738.0,S13,exact match
+"Cumulative BEV car registrations 2011-Nov 2023 vs MITI Dec-2023 '>12,000 since 2011'",14026.0,12000.0,S03,consistent with 'more than' statement
+"BEV car registrations Jan-Nov 2023 vs MITI '>9,000 this year'",10318.0,9000.0,S03,consistent with 'surpassing' statement

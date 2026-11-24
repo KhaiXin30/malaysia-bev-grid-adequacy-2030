@@ -1,0 +1,4 @@
+survival_case,median_life,shape,modelled_active_cars_2000_2026_cohorts,cumulative_car_registrations_2000_sep2026,mot_reported_active_cars_approx,ratio_model_to_reported
+low,14.0,2.0,9636114,16034449,16000000,0.6023
+base,18.0,2.5,11477780,16034449,16000000,0.7174
+high,22.0,3.0,13051221,16034449,16000000,0.8157

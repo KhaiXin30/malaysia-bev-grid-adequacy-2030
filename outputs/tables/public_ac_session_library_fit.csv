@@ -1,0 +1,9 @@
+visit_type,arrival_mean_h,arrival_sd_h,dwell_median_h,dwell_lognormal_sigma,mean_delivered_kwh,mean_dwell_h,share_dwell_limited,mean_power_kw,fit_sessions_per_mwh__weekday__energy,fit_sessions_per_mwh__weekday__connected,fit_sessions_per_mwh__weekend_holiday__energy,fit_sessions_per_mwh__weekend_holiday__connected
+morning_errand,9.5,0.6,1.5,0.4,9.2527,1.6404,0.3618,8.8522,9.0327,11.23,8.7814,13.7471
+lunch,12.2,0.35,1.25,0.3,8.5275,1.308,0.4621,8.8247,6.5003,20.5149,0.0,12.711
+midday_long_stay,12.5,0.8,3.0,0.3,11.3215,3.1346,0.084,8.8157,23.252,10.4567,39.7853,34.2115
+afternoon,15.0,0.8,1.5,0.4,9.2294,1.6249,0.37,8.854,8.9928,6.8844,28.9565,17.0226
+after_work_stop,16.9,0.3,1.0,0.3,7.5003,1.0438,0.5863,8.827,21.9826,27.561,6.7539,8.5417
+dinner,19.9,0.4,1.75,0.3,9.8278,1.8281,0.273,8.8342,20.9576,24.7851,9.3222,12.3538
+late_evening,21.5,0.5,1.25,0.4,8.5063,1.3525,0.4587,8.8603,14.1231,8.7578,2.5701,1.3443
+overnight_soho,22.5,1.0,9.0,0.2,12.0192,9.1708,0.0005,8.8513,1.9777,1.201,3.0731,1.9191

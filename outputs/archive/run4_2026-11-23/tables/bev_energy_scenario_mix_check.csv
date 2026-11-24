@@ -1,0 +1,4 @@
+scenario,evdb_fleet_kwh_per_100km_2030,diff_vs_20pct
+20pct_xev,17.652803,0.0
+30pct_xev,17.66063,0.000443
+historical_trend,17.657512,0.000267

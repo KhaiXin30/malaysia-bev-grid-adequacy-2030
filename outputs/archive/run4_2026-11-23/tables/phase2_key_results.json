@@ -1,0 +1,49 @@
+{
+  "energy_2030_gwh": {
+    "20pct_xev": {
+      "peninsular": {
+        "low": 637.8,
+        "base": 1285.0,
+        "high": 2386.6
+      },
+      "national": {
+        "low": 724.8,
+        "base": 1396.7,
+        "high": 2512.2
+      }
+    },
+    "30pct_xev": {
+      "peninsular": {
+        "low": 767.3,
+        "base": 1566.1,
+        "high": 2947.6
+      },
+      "national": {
+        "low": 871.9,
+        "base": 1702.2,
+        "high": 3102.8
+      }
+    },
+    "historical_trend": {
+      "peninsular": {
+        "low": 795.1,
+        "base": 1440.1,
+        "high": 3683.8
+      },
+      "national": {
+        "low": 903.5,
+        "base": 1565.4,
+        "high": 3877.6
+      }
+    }
+  },
+  "consumption_factors": {
+    "low": 0.7135135135135134,
+    "base": 0.8567567567567567,
+    "high": 1.0
+  },
+  "evdb_fleet_2030": 17.652803274783423,
+  "base_kwh_per_100km_2030": 15.124158481368498,
+  "validation_checks": 31,
+  "validation_failures": 0
+}

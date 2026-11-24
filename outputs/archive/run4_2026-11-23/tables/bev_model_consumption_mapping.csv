@@ -1,0 +1,167 @@
+maker,model,registrations_2022_2026oct,registrations_2025_2026oct,evdb_reference,mapping_type,evdb_kwh_per_100km_battery,share_2022_2026oct
+Proton,e.MAS 5,22802,22802,Geely E2 (e.MAS 5 proxy),proxy: e.MAS 5 is a rebadged Geely Geome Xingyuan (E16); EVDB lists Geely E2 with different battery sizes,16.6,0.1615
+Proton,e.MAS 7,13761,13761,Geely E5 (e.MAS 7 twin),twin: co-developed with Geely Galaxy E5 (E16),18.5667,0.0975
+BYD,Atto 3,13624,7465,BYD ATTO 3 (MY23-24),direct,18.3,0.0965
+Tesla,Model 3,9708,5024,Tesla Model 3,direct (variant mix unknown; variants averaged),13.82,0.0688
+Tesla,Model Y,9365,6799,Tesla Model Y,direct (variant mix unknown; variants averaged),16.375,0.0663
+BYD,Sealion,6794,6153,BYD SEALION 7,direct (JPJ 'Sealion' with fuel electric assumed = Sealion 7),20.2667,0.0481
+Zeekr,7X,4575,4575,Zeekr 7X,direct,19.3333,0.0324
+BYD,Seal,4250,1292,BYD SEAL,direct,17.5,0.0301
+BMW,iX,2918,258,BMW iX,direct,20.2333,0.0207
+BYD,M6,2881,2315,XPENG X9,proxy: MPV segment (X9 is larger -> conservative),19.5,0.0204
+BYD,Dolphin,2831,87,BYD DOLPHIN 60.4 kWh,direct,17.3,0.0201
+BYD,Atto 2,2798,2798,BYD ATTO 2,direct,18.85,0.0198
+BYD,Seal 6,2717,2717,BYD SEAL,proxy: same brand D-segment sedan,17.5,0.0192
+Chery,iCaur V23,2507,2507,Omoda E5,proxy: same group compact SUV,17.8,0.0178
+Chery,iCaur 03,2333,2333,Omoda E5,proxy: same group compact SUV,17.8,0.0165
+Xpeng,G6,2041,1645,XPENG G6,direct,17.8,0.0145
+Great Wall,Ora,2017,925,BYD DOLPHIN 60.4 kWh,proxy: compact hatch segment,17.3,0.0143
+Denza,D9,1579,1579,XPENG X9,proxy: large MPV segment,19.5,0.0112
+Porsche,Taycan,1537,526,Porsche Taycan (sedan),direct (variants averaged),17.3556,0.0109
+Zeekr,009,1456,1408,XPENG X9,proxy: large MPV segment,19.5,0.0103
+Smart,Brabus,1424,624,Smart #1 Brabus,direct (JPJ 'Brabus' may include #3),19.1,0.0101
+Leapmotor,C10,1321,1308,Leapmotor C10,direct,20.25,0.0094
+BMW,iX1,1320,418,BMW iX1,direct,16.5,0.0094
+Chery,Omoda 5,1320,765,Omoda E5,direct,17.8,0.0094
+MG,MG4,1284,765,MG MG4,direct,17.1,0.0091
+Mini,Cooper,1173,220,Mini Cooper SE/E,direct,14.75,0.0083
+Leapmotor,B10,1056,1056,Leapmotor B10,direct,17.9667,0.0075
+Xpeng,X9,1036,1035,XPENG X9,direct,19.5,0.0073
+BMW,i5,1012,436,BMW i5 (sedan),direct,17.7667,0.0072
+BMW,i7,966,91,Mercedes-Benz EQS,proxy: large luxury sedan,15.95,0.0068
+BMW,i4,947,378,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0067
+BMW,iX2,938,461,BMW iX2,direct,16.3,0.0066
+MG,S5,810,810,MG MGS5,direct,17.05,0.0057
+TQ Wuling,Bingo,788,788,BYD DOLPHIN SURF,proxy: small hatch segment,16.0333,0.0056
+Volvo,XC40,762,14,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0054
+Mercedes Benz,EQE,717,327,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0051
+Mercedes Benz,EQS,654,284,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0046
+Volvo,EX30,629,480,Volvo EX30,direct,18.3286,0.0045
+Mini,Countryman,573,225,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0041
+Dong Feng,Box E3,560,549,residual (fleet-weighted mean of mapped models),residual,17.5788,0.004
+Volvo,C40,557,12,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0039
+BMW,iX3,557,109,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0039
+Perodua,QV-E,549,549,BYD DOLPHIN SURF,proxy: small hatch/crossover segment,16.0333,0.0039
+Mercedes Benz,EQA,497,83,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0035
+Porsche,Macan,485,436,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0034
+Mini,Aceman,479,392,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0034
+Neta,V,406,149,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0029
+Hyundai,Ioniq 5,348,64,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0025
+Zeekr,X,336,309,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0024
+Lotus,Eletre,298,75,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0021
+Honda,e:N1,298,298,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0021
+Audi,Q8,288,104,residual (fleet-weighted mean of mapped models),residual,17.5788,0.002
+Mini,John Cooper Works,278,278,residual (fleet-weighted mean of mapped models),residual,17.5788,0.002
+Volvo,EC40,267,267,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0019
+Weststar Maxus,T90,267,166,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0019
+Mercedes Benz,EQB,256,18,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0018
+Hyundai,Ioniq 6,222,41,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0016
+Hyundai,Kona,214,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0015
+Lexus,RZ,197,145,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0014
+Mercedes Benz,EQC,193,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0014
+Neta,X,178,137,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0013
+Volvo,EX90,151,151,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0011
+MG,Cyberster,150,150,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0011
+Kia,EV6,120,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0009
+Volvo,ES90,116,116,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0008
+MG,ZS,113,43,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0008
+Denza,Z9GT,106,106,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0008
+GAC Aion,Y Plus Premium,100,50,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0007
+GAC Aion,Y Plus Standard,94,67,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0007
+Weststar Maxus,MIFA 9,79,21,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0006
+Jaecoo,J5,75,75,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0005
+Audi,E-tron,73,17,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0005
+Nissan,Leaf,72,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0005
+Kia,EV9,61,19,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Jaguar,I-Pace,61,14,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Toyota,bZ4X,61,50,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Lotus,Emeya,55,47,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Tesla,Model X,55,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Dong Feng,Vigo,50,50,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Audi,RS e-tron GT,50,15,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0004
+Chery,Jaecoo J5,47,47,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0003
+Rolls Royce,Spectre,43,26,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0003
+Mercedes Benz,E-Class,37,25,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0003
+Dong Feng,007,34,34,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0002
+Mazda,MX-30,32,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0002
+Honda,E Advance ,28,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0002
+Higer,H5C,27,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0002
+Mercedes Benz,G-Class,19,19,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Toyota,Hilux,17,17,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+BMW,i3,15,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Renault,Zoe,14,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Mercedes Benz,EQV,14,6,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+MG,ZS EV,13,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Ford,Mustang,11,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Kia,Niro,11,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Chery,Tiggo Cross,11,11,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Tesla,Model S,10,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Dong Feng,Box E2,10,10,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Chery,Luxeed R7,9,9,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Toyota,Mirai,9,3,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0001
+Audi,SQ8,7,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Toyota,Urban Cruiser,5,5,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Chery,Jaecoo J7,5,5,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Cam,EA4,5,3,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Mercedes Benz,CLA,5,5,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+BYD,e6,5,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Polestar,2,5,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Peugeot,2008,5,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+JAC,T9,5,5,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Dong Feng,Motor,5,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Volkswagen,ID.Buzz,5,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Jac,T9,5,5,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Porsche,Cayenne,4,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+MG,5,4,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Mini,Convertible,4,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Maxus,eTerron 9,4,4,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Fiat,500,4,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Vinfast,e34,3,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Volkswagen,ID.4,3,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+GAC,Aion ES,3,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Chery,Jaecoo J6,3,3,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Renault,Twizy,3,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Chery,iCaur V25,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Genesis,G80,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Hycann,Z03,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Smart,Fortwo,2,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Honda,CR-V,2,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Skyworth,K,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Nissan,Unknown,2,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Chery,iCar V23,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Maserati,GranTurismo,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Maxus,MIFA 7,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Mercedes-Maybach,EQS 680,2,2,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+GAC Aion,V Elite,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Volkswagen,ID.5,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Audi,Q4,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+GAC Hyptec,HT Premium,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+GAC Aion,V Luxury,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Xinneng,K8S,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+BMW,1 Series,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Xinneng,K3,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+EVEasy,Elight,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Citroen,Ami,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Volkswagen,ID.3,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Xinneng,H9,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Ford,Mach-E,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Neta,GT,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Vinfast,VF5,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Lepas,L4,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Microlino,2.0 Pioneer,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Microlino,2.0 Dolce,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Mercedes Benz,Unknown,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Lexus,UX,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Lexus,RX,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Seres,3,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Shineray,X30L,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Suzuki,e Vitara,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+GAC Hyptec,HT Ultra,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+King Long Xiamen,Placer,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Jetour,Kaiyi,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Jaguar,F-Type,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Hyundai,Ioniq 9,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Togg,T10X,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Nissan,Sakura,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Higer,H7V,1,1,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0
+Allenbus,Unknown,1,0,residual (fleet-weighted mean of mapped models),residual,17.5788,0.0

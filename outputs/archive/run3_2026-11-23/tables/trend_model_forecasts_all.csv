@@ -1,0 +1,217 @@
+model,fit_start,fit_end,year,bev_raw,bev_registrations,market_total_cars,bev_share,exceeds_market,params,market_case
+A_linear_counts,2021,2026,2027,75047.666667,75047.666667,873384.0,0.085927,False,{'slope_per_year': 14051.7143},low
+A_linear_counts,2021,2026,2028,89099.380952,89099.380952,860283.0,0.10357,False,{'slope_per_year': 14051.7143},low
+A_linear_counts,2021,2026,2029,103151.095238,103151.095238,847379.0,0.12173,False,{'slope_per_year': 14051.7143},low
+A_linear_counts,2021,2026,2030,117202.809524,117202.809524,834668.0,0.140418,False,{'slope_per_year': 14051.7143},low
+B_exponential_counts,2021,2026,2027,372342.442971,372342.442971,873384.0,0.426322,False,{'implied_cagr': 1.8495},low
+B_exponential_counts,2021,2026,2028,1060972.777508,860283.0,860283.0,1.0,True,{'implied_cagr': 1.8495},low
+B_exponential_counts,2021,2026,2029,3023193.449637,847379.0,847379.0,1.0,True,{'implied_cagr': 1.8495},low
+B_exponential_counts,2021,2026,2030,8614451.593563,834668.0,834668.0,1.0,True,{'implied_cagr': 1.8495},low
+D_linear_share,2021,2026,2027,74434.183801,74434.183801,873384.0,0.085225,False,{'share_slope_pp_per_year': 1.584},low
+D_linear_share,2021,2026,2028,86944.830936,86944.830936,860283.0,0.101065,False,{'share_slope_pp_per_year': 1.584},low
+D_linear_share,2021,2026,2029,99063.459754,99063.459754,847379.0,0.116906,False,{'share_slope_pp_per_year': 1.584},low
+D_linear_share,2021,2026,2030,110798.900917,110798.900917,834668.0,0.132746,False,{'share_slope_pp_per_year': 1.584},low
+C_logistic_share_K30,2021,2026,2027,162267.286107,162267.286107,873384.0,0.185791,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",low
+C_logistic_share_K30,2021,2026,2028,211263.034854,211263.034854,860283.0,0.245574,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",low
+C_logistic_share_K30,2021,2026,2029,235403.618535,235403.618535,847379.0,0.277802,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",low
+C_logistic_share_K30,2021,2026,2030,243388.590566,243388.590566,834668.0,0.291599,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",low
+C_logistic_share_K50,2021,2026,2027,200510.635457,200510.635457,873384.0,0.229579,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",low
+C_logistic_share_K50,2021,2026,2028,299533.827897,299533.827897,860283.0,0.348181,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",low
+C_logistic_share_K50,2021,2026,2029,364805.326787,364805.326787,847379.0,0.43051,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",low
+C_logistic_share_K50,2021,2026,2030,393803.47829,393803.47829,834668.0,0.471809,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",low
+C_logistic_share_K80,2021,2026,2027,230954.959022,230954.959022,873384.0,0.264437,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",low
+C_logistic_share_K80,2021,2026,2028,391053.022051,391053.022051,860283.0,0.454563,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",low
+C_logistic_share_K80,2021,2026,2029,527493.178989,527493.178989,847379.0,0.6225,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",low
+C_logistic_share_K80,2021,2026,2030,603197.899282,603197.899282,834668.0,0.72268,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",low
+A_linear_counts,2022,2026,2027,81711.4,81711.4,873384.0,0.093557,False,{'slope_per_year': 16907.6},low
+A_linear_counts,2022,2026,2028,98619.0,98619.0,860283.0,0.114636,False,{'slope_per_year': 16907.6},low
+A_linear_counts,2022,2026,2029,115526.6,115526.6,847379.0,0.136334,False,{'slope_per_year': 16907.6},low
+A_linear_counts,2022,2026,2030,132434.2,132434.2,834668.0,0.158667,False,{'slope_per_year': 16907.6},low
+B_exponential_counts,2022,2026,2027,185453.518352,185453.518352,873384.0,0.212339,False,{'implied_cagr': 1.1136},low
+B_exponential_counts,2022,2026,2028,391980.987367,391980.987367,860283.0,0.455642,False,{'implied_cagr': 1.1136},low
+B_exponential_counts,2022,2026,2029,828504.607639,828504.607639,847379.0,0.977726,False,{'implied_cagr': 1.1136},low
+B_exponential_counts,2022,2026,2030,1751156.068789,834668.0,834668.0,1.0,True,{'implied_cagr': 1.1136},low
+D_linear_share,2022,2026,2027,80732.439269,80732.439269,873384.0,0.092436,False,{'share_slope_pp_per_year': 1.8931},low
+D_linear_share,2022,2026,2028,95807.373657,95807.373657,860283.0,0.111367,False,{'share_slope_pp_per_year': 1.8931},low
+D_linear_share,2022,2026,2029,110411.94899,110411.94899,847379.0,0.130298,False,{'share_slope_pp_per_year': 1.8931},low
+D_linear_share,2022,2026,2030,124556.756521,124556.756521,834668.0,0.149229,False,{'share_slope_pp_per_year': 1.8931},low
+C_logistic_share_K30,2022,2026,2027,126579.846867,126579.846867,873384.0,0.14493,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",low
+C_logistic_share_K30,2022,2026,2028,173305.936087,173305.936087,860283.0,0.201452,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",low
+C_logistic_share_K30,2022,2026,2029,207749.204719,207749.204719,847379.0,0.245167,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",low
+C_logistic_share_K30,2022,2026,2030,227170.808847,227170.808847,834668.0,0.272169,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",low
+C_logistic_share_K50,2022,2026,2027,141856.517295,141856.517295,873384.0,0.162422,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",low
+C_logistic_share_K50,2022,2026,2028,217091.108683,217091.108683,860283.0,0.252348,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",low
+C_logistic_share_K50,2022,2026,2029,289525.296001,289525.296001,847379.0,0.341672,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",low
+C_logistic_share_K50,2022,2026,2030,342412.056244,342412.056244,834668.0,0.410237,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",low
+C_logistic_share_K80,2022,2026,2027,151976.317396,151976.317396,873384.0,0.174009,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",low
+C_logistic_share_K80,2022,2026,2028,252403.073578,252403.073578,860283.0,0.293395,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",low
+C_logistic_share_K80,2022,2026,2029,370688.076419,370688.076419,847379.0,0.437453,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",low
+C_logistic_share_K80,2022,2026,2030,477707.783784,477707.783784,834668.0,0.572333,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",low
+A_linear_counts,2023,2026,2027,87667.0,87667.0,873384.0,0.100376,False,{'slope_per_year': 19885.4},low
+A_linear_counts,2023,2026,2028,107552.4,107552.4,860283.0,0.12502,False,{'slope_per_year': 19885.4},low
+A_linear_counts,2023,2026,2029,127437.8,127437.8,847379.0,0.150391,False,{'slope_per_year': 19885.4},low
+A_linear_counts,2023,2026,2030,147323.2,147323.2,834668.0,0.176505,False,{'slope_per_year': 19885.4},low
+B_exponential_counts,2023,2026,2027,131994.30412,131994.30412,873384.0,0.15113,False,{'implied_cagr': 0.7832},low
+B_exponential_counts,2023,2026,2028,235366.783911,235366.783911,860283.0,0.273592,False,{'implied_cagr': 0.7832},low
+B_exponential_counts,2023,2026,2029,419696.314457,419696.314457,847379.0,0.495288,False,{'implied_cagr': 0.7832},low
+B_exponential_counts,2023,2026,2030,748385.109579,748385.109579,834668.0,0.896626,False,{'implied_cagr': 0.7832},low
+D_linear_share,2023,2026,2027,86339.17034,86339.17034,873384.0,0.098856,False,{'share_slope_pp_per_year': 2.2141},low
+D_linear_share,2023,2026,2028,104091.316504,104091.316504,860283.0,0.120997,False,{'share_slope_pp_per_year': 2.2141},low
+D_linear_share,2023,2026,2029,121291.530407,121291.530407,847379.0,0.143137,False,{'share_slope_pp_per_year': 2.2141},low
+D_linear_share,2023,2026,2030,137952.236085,137952.236085,834668.0,0.165278,False,{'share_slope_pp_per_year': 2.2141},low
+C_logistic_share_K30,2023,2026,2027,108877.484693,108877.484693,873384.0,0.124662,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",low
+C_logistic_share_K30,2023,2026,2028,148555.848147,148555.848147,860283.0,0.172683,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",low
+C_logistic_share_K30,2023,2026,2029,183350.923167,183350.923167,847379.0,0.216374,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",low
+C_logistic_share_K30,2023,2026,2030,208216.583233,208216.583233,834668.0,0.24946,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",low
+C_logistic_share_K50,2023,2026,2027,115836.019148,115836.019148,873384.0,0.132629,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",low
+C_logistic_share_K50,2023,2026,2028,171378.844424,171378.844424,860283.0,0.199212,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",low
+C_logistic_share_K50,2023,2026,2029,232407.911046,232407.911046,847379.0,0.274267,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",low
+C_logistic_share_K50,2023,2026,2030,288086.316376,288086.316376,834668.0,0.345151,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",low
+C_logistic_share_K80,2023,2026,2027,119947.779201,119947.779201,873384.0,0.137337,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",low
+C_logistic_share_K80,2023,2026,2028,186910.402583,186910.402583,860283.0,0.217266,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",low
+C_logistic_share_K80,2023,2026,2029,272151.23606,272151.23606,847379.0,0.321168,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",low
+C_logistic_share_K80,2023,2026,2030,365131.97101,365131.97101,834668.0,0.437458,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",low
+A_linear_counts,2021,2026,2027,75047.666667,75047.666667,895551.0,0.083801,False,{'slope_per_year': 14051.7143},base
+A_linear_counts,2021,2026,2028,89099.380952,89099.380952,904506.0,0.098506,False,{'slope_per_year': 14051.7143},base
+A_linear_counts,2021,2026,2029,103151.095238,103151.095238,913551.0,0.112912,False,{'slope_per_year': 14051.7143},base
+A_linear_counts,2021,2026,2030,117202.809524,117202.809524,922687.0,0.127023,False,{'slope_per_year': 14051.7143},base
+B_exponential_counts,2021,2026,2027,372342.442971,372342.442971,895551.0,0.415769,False,{'implied_cagr': 1.8495},base
+B_exponential_counts,2021,2026,2028,1060972.777508,904506.0,904506.0,1.0,True,{'implied_cagr': 1.8495},base
+B_exponential_counts,2021,2026,2029,3023193.449637,913551.0,913551.0,1.0,True,{'implied_cagr': 1.8495},base
+B_exponential_counts,2021,2026,2030,8614451.593563,922687.0,922687.0,1.0,True,{'implied_cagr': 1.8495},base
+D_linear_share,2021,2026,2027,76323.367199,76323.367199,895551.0,0.085225,False,{'share_slope_pp_per_year': 1.584},base
+D_linear_share,2021,2026,2028,91414.245371,91414.245371,904506.0,0.101065,False,{'share_slope_pp_per_year': 1.584},base
+D_linear_share,2021,2026,2029,106799.345655,106799.345655,913551.0,0.116906,False,{'share_slope_pp_per_year': 1.584},base
+D_linear_share,2021,2026,2030,122483.077691,122483.077691,922687.0,0.132746,False,{'share_slope_pp_per_year': 1.584},base
+C_logistic_share_K30,2021,2026,2027,166385.72534,166385.72534,895551.0,0.185791,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",base
+C_logistic_share_K30,2021,2026,2028,222123.048583,222123.048583,904506.0,0.245574,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",base
+C_logistic_share_K30,2021,2026,2029,253786.335413,253786.335413,913551.0,0.277802,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",base
+C_logistic_share_K30,2021,2026,2030,269054.86788,269054.86788,922687.0,0.291599,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",base
+C_logistic_share_K50,2021,2026,2027,205599.713406,205599.713406,895551.0,0.229579,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",base
+C_logistic_share_K50,2021,2026,2028,314931.417378,314931.417378,904506.0,0.348181,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",base
+C_logistic_share_K50,2021,2026,2029,393293.049618,393293.049618,913551.0,0.43051,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",base
+C_logistic_share_K50,2021,2026,2030,435331.592888,435331.592888,922687.0,0.471809,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",base
+C_logistic_share_K80,2021,2026,2027,236816.731823,236816.731823,895551.0,0.264437,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",base
+C_logistic_share_K80,2021,2026,2028,411155.171918,411155.171918,904506.0,0.454563,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",base
+C_logistic_share_K80,2021,2026,2029,568685.229583,568685.229583,913551.0,0.6225,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",base
+C_logistic_share_K80,2021,2026,2030,666807.473265,666807.473265,922687.0,0.72268,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",base
+A_linear_counts,2022,2026,2027,81711.4,81711.4,895551.0,0.091241,False,{'slope_per_year': 16907.6},base
+A_linear_counts,2022,2026,2028,98619.0,98619.0,904506.0,0.109031,False,{'slope_per_year': 16907.6},base
+A_linear_counts,2022,2026,2029,115526.6,115526.6,913551.0,0.126459,False,{'slope_per_year': 16907.6},base
+A_linear_counts,2022,2026,2030,132434.2,132434.2,922687.0,0.143531,False,{'slope_per_year': 16907.6},base
+B_exponential_counts,2022,2026,2027,185453.518352,185453.518352,895551.0,0.207083,False,{'implied_cagr': 1.1136},base
+B_exponential_counts,2022,2026,2028,391980.987367,391980.987367,904506.0,0.433365,False,{'implied_cagr': 1.1136},base
+B_exponential_counts,2022,2026,2029,828504.607639,828504.607639,913551.0,0.906906,False,{'implied_cagr': 1.1136},base
+B_exponential_counts,2022,2026,2030,1751156.068789,922687.0,922687.0,1.0,True,{'implied_cagr': 1.1136},base
+D_linear_share,2022,2026,2027,82781.476097,82781.476097,895551.0,0.092436,False,{'share_slope_pp_per_year': 1.8931},base
+D_linear_share,2022,2026,2028,100732.368671,100732.368671,904506.0,0.111367,False,{'share_slope_pp_per_year': 1.8931},base
+D_linear_share,2022,2026,2029,119034.040744,119034.040744,913551.0,0.130298,False,{'share_slope_pp_per_year': 1.8931},base
+D_linear_share,2022,2026,2030,137691.752893,137691.752893,922687.0,0.149229,False,{'share_slope_pp_per_year': 1.8931},base
+C_logistic_share_K30,2022,2026,2027,129792.517887,129792.517887,895551.0,0.14493,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",base
+C_logistic_share_K30,2022,2026,2028,182214.758429,182214.758429,904506.0,0.201452,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",base
+C_logistic_share_K30,2022,2026,2029,223972.382748,223972.382748,913551.0,0.245167,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",base
+C_logistic_share_K30,2022,2026,2030,251126.857747,251126.857747,922687.0,0.272169,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",base
+C_logistic_share_K50,2022,2026,2027,145456.919202,145456.919202,895551.0,0.162422,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",base
+C_logistic_share_K50,2022,2026,2028,228250.715579,228250.715579,904506.0,0.252348,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",base
+C_logistic_share_K50,2022,2026,2029,312134.385779,312134.385779,913551.0,0.341672,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",base
+C_logistic_share_K50,2022,2026,2030,378520.744702,378520.744702,922687.0,0.410237,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",base
+C_logistic_share_K80,2022,2026,2027,155833.565786,155833.565786,895551.0,0.174009,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",base
+C_logistic_share_K80,2022,2026,2028,265377.898284,265377.898284,904506.0,0.293395,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",base
+C_logistic_share_K80,2022,2026,2029,399635.184375,399635.184375,913551.0,0.437453,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",base
+C_logistic_share_K80,2022,2026,2030,528083.935045,528083.935045,922687.0,0.572333,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",base
+A_linear_counts,2023,2026,2027,87667.0,87667.0,895551.0,0.097892,False,{'slope_per_year': 19885.4},base
+A_linear_counts,2023,2026,2028,107552.4,107552.4,904506.0,0.118907,False,{'slope_per_year': 19885.4},base
+A_linear_counts,2023,2026,2029,127437.8,127437.8,913551.0,0.139497,False,{'slope_per_year': 19885.4},base
+A_linear_counts,2023,2026,2030,147323.2,147323.2,922687.0,0.159668,False,{'slope_per_year': 19885.4},base
+B_exponential_counts,2023,2026,2027,131994.30412,131994.30412,895551.0,0.147389,False,{'implied_cagr': 0.7832},base
+B_exponential_counts,2023,2026,2028,235366.783911,235366.783911,904506.0,0.260216,False,{'implied_cagr': 0.7832},base
+B_exponential_counts,2023,2026,2029,419696.314457,419696.314457,913551.0,0.459412,False,{'implied_cagr': 0.7832},base
+B_exponential_counts,2023,2026,2030,748385.109579,748385.109579,922687.0,0.811093,False,{'implied_cagr': 0.7832},base
+D_linear_share,2023,2026,2027,88530.509303,88530.509303,895551.0,0.098856,False,{'share_slope_pp_per_year': 2.2141},base
+D_linear_share,2023,2026,2028,109442.149066,109442.149066,904506.0,0.120997,False,{'share_slope_pp_per_year': 2.2141},base
+D_linear_share,2023,2026,2029,130763.210907,130763.210907,913551.0,0.143137,False,{'share_slope_pp_per_year': 2.2141},base
+D_linear_share,2023,2026,2030,152499.838088,152499.838088,922687.0,0.165278,False,{'share_slope_pp_per_year': 2.2141},base
+C_logistic_share_K30,2023,2026,2027,111640.859341,111640.859341,895551.0,0.124662,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",base
+C_logistic_share_K30,2023,2026,2028,156192.387835,156192.387835,904506.0,0.172683,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",base
+C_logistic_share_K30,2023,2026,2029,197668.834382,197668.834382,913551.0,0.216374,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",base
+C_logistic_share_K30,2023,2026,2030,230173.835026,230173.835026,922687.0,0.24946,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",base
+C_logistic_share_K50,2023,2026,2027,118776.005496,118776.005496,895551.0,0.132629,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",base
+C_logistic_share_K50,2023,2026,2028,180188.604279,180188.604279,904506.0,0.199212,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",base
+C_logistic_share_K50,2023,2026,2029,250556.692512,250556.692512,913551.0,0.274267,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",base
+C_logistic_share_K50,2023,2026,2030,318466.143423,318466.143423,922687.0,0.345151,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",base
+C_logistic_share_K80,2023,2026,2027,122992.124439,122992.124439,895551.0,0.137337,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",base
+C_logistic_share_K80,2023,2026,2028,196518.564936,196518.564936,904506.0,0.217266,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",base
+C_logistic_share_K80,2023,2026,2029,293403.581932,293403.581932,913551.0,0.321168,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",base
+C_logistic_share_K80,2023,2026,2030,403636.563203,403636.563203,922687.0,0.437458,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",base
+A_linear_counts,2021,2026,2027,75047.666667,75047.666667,908851.0,0.082574,False,{'slope_per_year': 14051.7143},high
+A_linear_counts,2021,2026,2028,89099.380952,89099.380952,931572.0,0.095644,False,{'slope_per_year': 14051.7143},high
+A_linear_counts,2021,2026,2029,103151.095238,103151.095238,954862.0,0.108027,False,{'slope_per_year': 14051.7143},high
+A_linear_counts,2021,2026,2030,117202.809524,117202.809524,978733.0,0.11975,False,{'slope_per_year': 14051.7143},high
+B_exponential_counts,2021,2026,2027,372342.442971,372342.442971,908851.0,0.409685,False,{'implied_cagr': 1.8495},high
+B_exponential_counts,2021,2026,2028,1060972.777508,931572.0,931572.0,1.0,True,{'implied_cagr': 1.8495},high
+B_exponential_counts,2021,2026,2029,3023193.449637,954862.0,954862.0,1.0,True,{'implied_cagr': 1.8495},high
+B_exponential_counts,2021,2026,2030,8614451.593563,978733.0,978733.0,1.0,True,{'implied_cagr': 1.8495},high
+D_linear_share,2021,2026,2027,77456.860192,77456.860192,908851.0,0.085225,False,{'share_slope_pp_per_year': 1.584},high
+D_linear_share,2021,2026,2028,94149.681029,94149.681029,931572.0,0.101065,False,{'share_slope_pp_per_year': 1.584},high
+D_linear_share,2021,2026,2029,111628.838227,111628.838227,954862.0,0.116906,False,{'share_slope_pp_per_year': 1.584},high
+D_linear_share,2021,2026,2030,129922.96421,129922.96421,978733.0,0.132746,False,{'share_slope_pp_per_year': 1.584},high
+C_logistic_share_K30,2021,2026,2027,168856.751722,168856.751722,908851.0,0.185791,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",high
+C_logistic_share_K30,2021,2026,2028,228769.751239,228769.751239,931572.0,0.245574,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",high
+C_logistic_share_K30,2021,2026,2029,265262.615667,265262.615667,954862.0,0.277802,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",high
+C_logistic_share_K30,2021,2026,2030,285397.84131,285397.84131,978733.0,0.291599,False,"{'K': 0.3, 'logistic_rate': 1.0202, 'midpoint_year': 2026.523}",high
+C_logistic_share_K50,2021,2026,2027,208653.114261,208653.114261,908851.0,0.229579,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",high
+C_logistic_share_K50,2021,2026,2028,324355.272767,324355.272767,931572.0,0.348181,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",high
+C_logistic_share_K50,2021,2026,2029,411077.857661,411077.857661,954862.0,0.43051,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",high
+C_logistic_share_K50,2021,2026,2030,461774.573504,461774.573504,978733.0,0.471809,False,"{'K': 0.5, 'logistic_rate': 0.9938, 'midpoint_year': 2027.1648}",high
+C_logistic_share_K80,2021,2026,2027,240333.742617,240333.742617,908851.0,0.264437,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",high
+C_logistic_share_K80,2021,2026,2028,423458.380391,423458.380391,931572.0,0.454563,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",high
+C_logistic_share_K80,2021,2026,2029,594401.314968,594401.314968,954862.0,0.6225,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",high
+C_logistic_share_K80,2021,2026,2030,707310.798495,707310.798495,978733.0,0.72268,False,"{'K': 0.8, 'logistic_rate': 0.9802, 'midpoint_year': 2027.7199}",high
+A_linear_counts,2022,2026,2027,81711.4,81711.4,908851.0,0.089906,False,{'slope_per_year': 16907.6},high
+A_linear_counts,2022,2026,2028,98619.0,98619.0,931572.0,0.105863,False,{'slope_per_year': 16907.6},high
+A_linear_counts,2022,2026,2029,115526.6,115526.6,954862.0,0.120988,False,{'slope_per_year': 16907.6},high
+A_linear_counts,2022,2026,2030,132434.2,132434.2,978733.0,0.135312,False,{'slope_per_year': 16907.6},high
+B_exponential_counts,2022,2026,2027,185453.518352,185453.518352,908851.0,0.204053,False,{'implied_cagr': 1.1136},high
+B_exponential_counts,2022,2026,2028,391980.987367,391980.987367,931572.0,0.420774,False,{'implied_cagr': 1.1136},high
+B_exponential_counts,2022,2026,2029,828504.607639,828504.607639,954862.0,0.867669,False,{'implied_cagr': 1.1136},high
+B_exponential_counts,2022,2026,2030,1751156.068789,978733.0,978733.0,1.0,True,{'implied_cagr': 1.1136},high
+D_linear_share,2022,2026,2027,84010.879707,84010.879707,908851.0,0.092436,False,{'share_slope_pp_per_year': 1.8931},high
+D_linear_share,2022,2026,2028,103746.635343,103746.635343,931572.0,0.111367,False,{'share_slope_pp_per_year': 1.8931},high
+D_linear_share,2022,2026,2029,124416.789225,124416.789225,954862.0,0.130298,False,{'share_slope_pp_per_year': 1.8931},high
+D_linear_share,2022,2026,2030,146055.447172,146055.447172,978733.0,0.149229,False,{'share_slope_pp_per_year': 1.8931},high
+C_logistic_share_K30,2022,2026,2027,131720.091512,131720.091512,908851.0,0.14493,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",high
+C_logistic_share_K30,2022,2026,2028,187667.264716,187667.264716,931572.0,0.201452,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",high
+C_logistic_share_K30,2022,2026,2029,234100.468759,234100.468759,954862.0,0.245167,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",high
+C_logistic_share_K30,2022,2026,2030,266380.845144,266380.845144,978733.0,0.272169,False,"{'K': 0.3, 'logistic_rate': 0.7826, 'midpoint_year': 2027.0864}",high
+C_logistic_share_K50,2022,2026,2027,147617.127861,147617.127861,908851.0,0.162422,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",high
+C_logistic_share_K50,2022,2026,2028,235080.779578,235080.779578,931572.0,0.252348,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",high
+C_logistic_share_K50,2022,2026,2029,326249.179163,326249.179163,954862.0,0.341672,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",high
+C_logistic_share_K50,2022,2026,2030,401512.911773,401512.911773,978733.0,0.410237,False,"{'K': 0.5, 'logistic_rate': 0.7504, 'midpoint_year': 2027.975}",high
+C_logistic_share_K80,2022,2026,2027,158147.880018,158147.880018,908851.0,0.174009,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",high
+C_logistic_share_K80,2022,2026,2028,273318.938139,273318.938139,931572.0,0.293395,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",high
+C_logistic_share_K80,2022,2026,2029,417706.785306,417706.785306,954862.0,0.437453,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",high
+C_logistic_share_K80,2022,2026,2030,560160.893129,560160.893129,978733.0,0.572333,False,"{'K': 0.8, 'logistic_rate': 0.734, 'midpoint_year': 2028.7441}",high
+A_linear_counts,2023,2026,2027,87667.0,87667.0,908851.0,0.096459,False,{'slope_per_year': 19885.4},high
+A_linear_counts,2023,2026,2028,107552.4,107552.4,931572.0,0.115453,False,{'slope_per_year': 19885.4},high
+A_linear_counts,2023,2026,2029,127437.8,127437.8,954862.0,0.133462,False,{'slope_per_year': 19885.4},high
+A_linear_counts,2023,2026,2030,147323.2,147323.2,978733.0,0.150524,False,{'slope_per_year': 19885.4},high
+B_exponential_counts,2023,2026,2027,131994.30412,131994.30412,908851.0,0.145232,False,{'implied_cagr': 0.7832},high
+B_exponential_counts,2023,2026,2028,235366.783911,235366.783911,931572.0,0.252655,False,{'implied_cagr': 0.7832},high
+B_exponential_counts,2023,2026,2029,419696.314457,419696.314457,954862.0,0.439536,False,{'implied_cagr': 0.7832},high
+B_exponential_counts,2023,2026,2030,748385.109579,748385.109579,978733.0,0.764647,False,{'implied_cagr': 0.7832},high
+D_linear_share,2023,2026,2027,89845.29291,89845.29291,908851.0,0.098856,False,{'share_slope_pp_per_year': 2.2141},high
+D_linear_share,2023,2026,2028,112717.042994,112717.042994,931572.0,0.120997,False,{'share_slope_pp_per_year': 2.2141},high
+D_linear_share,2023,2026,2029,136676.355335,136676.355335,954862.0,0.143137,False,{'share_slope_pp_per_year': 2.2141},high
+D_linear_share,2023,2026,2030,161763.007424,161763.007424,978733.0,0.165278,False,{'share_slope_pp_per_year': 2.2141},high
+C_logistic_share_K30,2023,2026,2027,113298.859197,113298.859197,908851.0,0.124662,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",high
+C_logistic_share_K30,2023,2026,2028,160866.213292,160866.213292,931572.0,0.172683,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",high
+C_logistic_share_K30,2023,2026,2029,206607.467493,206607.467493,954862.0,0.216374,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",high
+C_logistic_share_K30,2023,2026,2030,244155.090595,244155.090595,978733.0,0.24946,False,"{'K': 0.3, 'logistic_rate': 0.6459, 'midpoint_year': 2027.5281}",high
+C_logistic_share_K50,2023,2026,2027,120539.970779,120539.970779,908851.0,0.132629,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",high
+C_logistic_share_K50,2023,2026,2028,185580.480909,185580.480909,931572.0,0.199212,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",high
+C_logistic_share_K50,2023,2026,2029,261886.927522,261886.927522,954862.0,0.274267,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",high
+C_logistic_share_K50,2023,2026,2030,337810.464383,337810.464383,978733.0,0.345151,False,"{'K': 0.5, 'logistic_rate': 0.6068, 'midpoint_year': 2028.679}",high
+C_logistic_share_K80,2023,2026,2027,124818.704115,124818.704115,908851.0,0.137337,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",high
+C_logistic_share_K80,2023,2026,2028,202399.09141,202399.09141,931572.0,0.217266,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",high
+C_logistic_share_K80,2023,2026,2029,306671.363778,306671.363778,954862.0,0.321168,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",high
+C_logistic_share_K80,2023,2026,2030,428154.319301,428154.319301,978733.0,0.437458,False,"{'K': 0.8, 'logistic_rate': 0.5872, 'midpoint_year': 2029.6801}",high
